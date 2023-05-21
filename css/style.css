@@ -5,6 +5,31 @@
 h3{
 	margin-left: 10px;
 }
-.skill{
+.skill, .bio{
 	text-align: center;
+}
+.surfing-image{
+
+}
+.surf{
+	background-image: url("https://th.bing.com/th/id/R.1cf6f541e484b2a3f52945a09a924d8e?rik=lxXd0tjx3kPKfg&pid=ImgRaw&r=0");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+}
+.font{
+	letter-spacing: .13rem;
+}
+.new-font{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.empty{
+	margin-left: 20px;
+}
+.space{
+	margin-bottom: 30px;
+}
+.card{
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
